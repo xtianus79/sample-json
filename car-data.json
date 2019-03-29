@@ -1,0 +1,39 @@
+{
+    "carData": [{
+            "id": 1,
+            "street": "streetnumber1",
+            "address": "streetaddress1",
+            "zipcode": "zipcode1",
+            "carOptions": {
+                "vehicles1": {
+                    "suv": {
+                        "color": "blue",
+                        "price": "500"
+                    },
+                    "truck": {
+                        "color": "black",
+                        "price": "1000"
+                    }
+                }
+            }
+        },
+        {
+            "id": 2,
+            "street": "streetnumber2",
+            "address": "streetaddress2",
+            "zipcode": "zipcode2",
+            "carOptions": {
+                "vehicles2": {
+                    "car": {
+                        "color": "yellow",
+                        "price": "600"
+                    },
+                    "van": {
+                        "color": "red",
+                        "price": "2000"
+                    }
+                }
+            }
+        }
+    ]
+}
